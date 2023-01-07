@@ -10,3 +10,7 @@ Usando como principais => {
   - MongoDb sendo o banco de dados escolhido, mongoose como frameWork escolhido;
   - nodemon para atualização do servidor.
 }
+
+Encontra-se ainda mais detalhado em nosso package.json.
+
+Esse app, simula um site para adoção de pet, com login de usuário e cadastro de pets;
